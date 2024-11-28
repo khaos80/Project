@@ -15,7 +15,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 .map {
-    margin-right: 20px;
+    margin-right: 10px;
 }
 .login-form {
     max-width: 300px;
@@ -33,7 +33,7 @@ body {
 .login-form button {
     width: 100%;
     padding: 10px;
-    background-color: #007bff;
+    background-color: #08a28a;
     border: none;
     border-radius: 5px;
     color: #fff;
@@ -43,6 +43,6 @@ body {
     display: block;
     text-align: center;
     margin-top: 10px;
-    color: #007bff;
+    color: #08a28a;
     text-decoration: none;
 }
